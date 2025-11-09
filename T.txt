@@ -1,1 +1,1 @@
-#35FB588qb8NNZfS4TDYkwpZFbZ7_57Tyx4SykhZGQSUjZh7wd
+ngrok config add-authtoken 27NUsaBf6KnUBVaJvN1uMzvgSXB_nDbMVtg5Yh7Y7qSgRews
